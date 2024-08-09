@@ -1,4 +1,4 @@
-Hello! My name is Vishal and I like playing with software 👷💻
+Hello! My name is Vishal and I like building stuff with software 👷💻
 
 Check out my <a href="https://vishalshenoy.com" target="_blank">personal website</a> to see more projects and research/work experience.
 
